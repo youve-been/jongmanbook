@@ -1,0 +1,10 @@
+# Compiled Object files
+*.o
+# Executables
+*.exe
+
+# Pdfs
+*.pdf
+
+# Json Settings
+*.json

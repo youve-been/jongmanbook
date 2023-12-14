@@ -1,4 +1,5 @@
 // TITLE 소풍
+
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -37,7 +38,7 @@ int countPairings(bool taken[10])
 // ! 다른 순서로 같은 쌍의 학생을 짝짓는 것을 서로 다른 경우로 계산함
 
 
-// TODO 소풍 문제를 해결하는 재귀 호출 코드
+// TODO 6.5 소풍 문제를 해결하는 재귀 호출 코드
 // ? 가장 경우의 수가 많을 때 : 945가지
 
 int n;

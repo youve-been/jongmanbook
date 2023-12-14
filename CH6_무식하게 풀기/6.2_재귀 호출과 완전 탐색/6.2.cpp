@@ -1,13 +1,15 @@
 // TITLE 중첩 반복문 대체하기
+
 #include <bits/stdc++.h>
 using namespace std;
 
 int main(void) {
 
-    // - 필요한 변수 및 상수 -
+    // - 필요한 변수 및 함수 -
     int n; // 원소의 총 개수
 
     // TODO n개의 원소 중 4개를 고르는 모든 경우를 출력 (4중 for문)
+
     for (int i = 0; i < n; i++) {
         for (int j = i+1; j < n; j++) {
             for (int k = j+1; k < n; k++) {

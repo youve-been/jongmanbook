@@ -15,3 +15,7 @@
 > - 첫 시작
 > - 146p ~ 159p (ch6.2 ~ ch6.4)
 > - 알고스팟 ID:PICNIC 문제 해결
+12.14
+> - 159p ~ 173p (ch6.5 ~ ch6.10)
+> - 알고스팟 ID:BOARDCOVER 문제 해결
+> - 알고스팟 ID:CLOCKSYNC 문제 해결

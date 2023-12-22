@@ -3,6 +3,9 @@
 # Executables
 *.exe
 
+# C++ file for testing purpose
+test.cpp
+
 # Pdfs
 *.pdf
 

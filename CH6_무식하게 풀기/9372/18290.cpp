@@ -3,9 +3,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// ? 시간복잡도 : 모르겠음
-// TODO 시간복잡도 알아보기
-
 int n, m;
 int board[12][12]; // 보드판. 범위 검사를 하지 않기 위해 n+2 * m+2 크기로 만듦
 int visited[12][12] = {0, }; // 칸별 방문횟수를 표현하는 배열
@@ -28,7 +25,7 @@ void visit(int x, int y, int op) {
 // | cnt개의 인접하지 않은 숫자를 골라 최댓값을 찾음
 int find_max(int x, int y, int cnt)
 {
-    // base case :
+    // base case : 숫자를 모두 고른 경우
     if (cnt == 0) 
         return 0;
     

@@ -3,8 +3,9 @@
 # Executables
 *.exe
 
-# C++ file for testing purpose
+# extra files for solving problems
 test.cpp
+boj_template.cpp
 
 # Pdfs
 *.pdf

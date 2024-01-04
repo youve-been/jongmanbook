@@ -5,7 +5,7 @@
 
 # extra files for solving problems
 test.cpp
-boj_template.cpp
+boj_template.txt
 
 # Pdfs
 *.pdf

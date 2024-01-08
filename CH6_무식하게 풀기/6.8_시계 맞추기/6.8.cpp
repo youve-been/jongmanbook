@@ -51,5 +51,5 @@ int solve(vector<int>& clocks, int swtch) {
         push(clocks, swtch);
     }
     // push(clocks, swtch)가 4번 호출되었으니 clocks는 원래와 같은 상태가 됨
-    return ret;s
+    return ret;
 }
